@@ -36,7 +36,7 @@ export default function Home() {
             src="/Untitled-3.png" /></a></figure>
         <figure id="880650b5-eca5-4183-a4c9-1fe8685d6ab0" className="image"><a
           href="#"><img style={{ width: "478px" }}
-            src="shits%20viet%20anh%20says%2053d5723cddbe47c0ad952ee8374b97f4/Untitled-4.png" /></a></figure>
+            src="/Untitled-4.png" /></a></figure>
       </div>
     </article>
   )
